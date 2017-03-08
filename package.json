@@ -1,0 +1,19 @@
+{
+  "name": "codeshot",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "bin": {
+    "codeshot": "main.js"
+  },
+  "dependencies": {
+    "file": "^0.2.2",
+    "htmlencode": "0.0.4",
+    "phantomjs2": "^2.2.0",
+    "prismjs": "^1.6.0",
+    "webshot": "^0.18.0",
+    "yargs": "^7.0.1"
+  }
+}
